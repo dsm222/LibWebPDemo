@@ -1,5 +1,6 @@
 # UE Project Base
 .vs/
+.idea/
 Binaries/
 DerivedDataCache/
 Intermediate/
